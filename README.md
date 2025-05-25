@@ -16,10 +16,6 @@ source ~/.bashrc
 ```
 
 ```shell
-gvm selfupdate
-```
-
-```shell
 gvm listall
 ```
 
