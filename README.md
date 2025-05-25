@@ -37,8 +37,13 @@ gvm use go1.21.0 --default
 ```
 
 ```shell
-gvm install go1.22.0
-gvm use go1.22.0 --default
+gvm install go1.22.6 -B
+gvm use go1.22.6 --default
+```
+
+```shell
+gvm install go1.24.3
+gvm use go1.24.3 --default
 ```
 
 ```shell
