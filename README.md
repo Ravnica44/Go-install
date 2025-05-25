@@ -47,7 +47,7 @@ gvm use go1.24.3 --default
 ```
 
 ```shell
-gvm uninstall go1.21.0
+gvm uninstall go1.21.0 && gvm uninstall go1.22.6
 ```
 
 ```shell
